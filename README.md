@@ -28,4 +28,5 @@ These are EUS regional maps of SMAR parameters that were created with neural net
 2) SMAR_optim_example_ShaleHills.R:
 This code inputs in situ RZSM data and AMSR-E near-surface satellite data (in the file: "Moisture_data.csv") as part of an optimization routine to calibrate the SMAR model. A Bayesian-MCMC approach is used for the optimization. MCMC chains are partially informed by estimating SMAR parameters with soil texture (provided by the file: "SH_RealtimeSite_Data.csv"). The code was written in R.
 
+
 References: Baldwin et al. 2019. Estimating Root Zone Soil Moisture Across the Eastern United States with Passive Microwave Satellite Data and a Simple Hydrologic Model. Remote Sensing: (https://www.mdpi.com/2072-4292/11/17/2013)
