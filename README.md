@@ -3,6 +3,8 @@ Spatial Root Zone Soil Moisture output from the Soil Moisture Analytical Relatio
 
 SMAR output for the Eastern United States Region totals 68.9 GB, but I would be happy to provide this output upon request (email: dcb5006@gmail.com). 
 
+(/Figure8.JPG)
+
 ### Acronyms ###
 EUS: Eastern United States
 RZSM: Root Zone Soil Moisture (in units of relative soil moisture content: dimensionless)
